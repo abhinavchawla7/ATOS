@@ -79,3 +79,6 @@ Werkzeug==2.1.2
 wrapt==1.14.1
 xgboost==0.82
 zipp==3.15.0
+os
+urllib
+cv2
