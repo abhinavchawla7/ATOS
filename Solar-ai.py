@@ -1,14 +1,11 @@
 import streamlit as st
 from streamlit import components
-import altair as alt
-import pandas as pd
 import numpy as np
-import os, urllib, cv2
+import cv2
 import base64
 from PIL import Image
 import tensorflow as tf
 import requests
-import geopy
 from geopy.geocoders import GoogleV3
 import io
 
