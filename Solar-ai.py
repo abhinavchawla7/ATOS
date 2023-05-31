@@ -6,6 +6,8 @@ from PIL import Image
 import tensorflow as tf
 import requests
 import io
+import cv2
+from geopy.geocoders import GoogleV3
 
 # Set the page title
 st.set_page_config(page_title="Solar AI Solutions", layout="wide")
