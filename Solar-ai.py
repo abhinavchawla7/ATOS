@@ -5,7 +5,6 @@ import base64
 from PIL import Image
 import tensorflow as tf
 import requests
-from geopy.geocoders import GoogleV3
 import io
 
 # Set the page title
