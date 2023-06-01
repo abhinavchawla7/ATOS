@@ -1,2 +1,2 @@
-# solar_ai
+# ATOS
 roof solar segmentation project
