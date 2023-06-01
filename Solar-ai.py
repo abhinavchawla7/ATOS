@@ -10,7 +10,7 @@ import cv2
 from geopy.geocoders import GoogleV3
 
 # Set the page title
-st.set_page_config(page_title="Solar AI Solutions", layout="wide")
+st.set_page_config(page_title="ATOS", layout="wide")
 
 # Create a dropdown menu in the sidebar
 selected_page = st.sidebar.selectbox("Our Hub", ("Home", "What we do", "Contact us"))
