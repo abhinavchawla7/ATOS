@@ -3,7 +3,6 @@ altair
 pandas
 numpy
 opencv-python-headless
-base64
 PIL
 pillow
 tensorflow
