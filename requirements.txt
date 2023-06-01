@@ -2,7 +2,6 @@ streamlit
 altair
 pandas
 numpy
-urllib
 opencv-python-headless
 base64
 PIL
