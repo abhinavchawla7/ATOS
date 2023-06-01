@@ -21,7 +21,7 @@ title_column, logo_column = st.columns([5,1])
 
 # Add content to the columns
 with title_column:
-    st.title(":blue[AuTomatic detection Of Solar roof]")
+    st.title(":blue[Automatic detection of Solar roof]")
     st.subheader("Welcome to ATOS! Harness the power of Sunshine !")
     # Add more content to the left column as needed
 
