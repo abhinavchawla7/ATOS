@@ -182,6 +182,7 @@ elif selected_page == "What we do":
             # Get the latitude and longitude
             latitude = 30.26
             longitude = -97.74
+            image_bytes = None
 
             # Generate the URL for the static satellite image
             map_size = "512x512"  # Adjust the size as needed
