@@ -153,7 +153,7 @@ elif selected_page == "What we do":
 
     with tab2:
         # Create a geocoder instance
-        geolocator = GoogleV3(api_key="AIzaSyCOzsbWrD24xWmtix3u9hlMfRTNf6EM80w")
+        geolocator = GoogleV3(api_key="AIzaSyCq1_-L7ocjpoB8Sg0NaXlM-zSbjDdog2A")
         # Input for location name or coordinates
         location_input = st.text_input("Enter location name or coordinates (latitude, longitude)")
 
