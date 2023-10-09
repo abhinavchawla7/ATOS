@@ -88,7 +88,7 @@ def perform_segmentation(image, selected_model):
 if selected_page == "Home":
 
     # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-    google_maps_api_key = 'AIzaSyAphXblWjO0yeDbtXrzcjudfSjBGemxUYU'
+    google_maps_api_key = 'AIzaSyCq1_-L7ocjpoB8Sg0NaXlM-zSbjDdog2A'
     # Embed the map in the Streamlit app with full width
     google_maps_component = components.v1.html(
         f"""
